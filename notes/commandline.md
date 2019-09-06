@@ -1,0 +1,15 @@
+## Commandline
+- `ls` shows files in directory
+- `cd` opens directory
+- `mkdir` creates folder
+- `touch` creates file
+- `tree` shows file tree
+- `.` current directory
+- `..` parent directory
+- `cp` copy from file to other file (`cp` file folder/new_file_name.md will copy file into folder with the new name)
+- `cp -r` copy entire directory
+- `rm` remove one file
+- `rm -r` remove whole directory
+- `cat` reads text from file
+- `mv` move file (`mv` file space location)
+- `git status` shows changes
