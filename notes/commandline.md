@@ -12,4 +12,3 @@
 - `rm -r` remove whole directory
 - `cat` reads text from file
 - `mv` move file (`mv` file space location)
-- `git status` shows changes

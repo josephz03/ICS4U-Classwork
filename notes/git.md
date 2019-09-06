@@ -14,3 +14,4 @@
 - Push the changes
 - `git push`
 - Enter username and password
+- `git status` shows changes
