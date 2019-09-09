@@ -2,8 +2,8 @@
 - initialize README
 
 ## Clone file
-- `-/(folder) paste url`
-
+- `git clone <paste url>`
+- or `-/<folder> git clone <paste url>`
 ## Workflow
 - Pull in changes from cloud
 - `git pull`
